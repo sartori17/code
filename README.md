@@ -9,4 +9,4 @@ git pull
 
 git commit -a -m 'first commit'
 
-git push
+git push origin master
